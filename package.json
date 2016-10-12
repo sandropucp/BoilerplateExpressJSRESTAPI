@@ -1,7 +1,7 @@
 {
   "name": "rest-api",
   "version": "0.0.1",
-  "description": "Boilerplate Rest  ExpressJS API",
+  "description": "Boilerplate ExpressJS REST API",
   "engines": {
     "node": "5.9.1"
   },
